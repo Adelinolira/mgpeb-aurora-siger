@@ -55,4 +55,5 @@ Os valores dos módulos são gerados de forma aleatória para simular diferentes
 
 ## 👤 Autor
 
+Adelino Lira
 Projeto desenvolvido para atividade acadêmica.
