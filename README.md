@@ -8,7 +8,7 @@ O sistema simula a chegada de diferentes módulos (habitação, energia, laborat
 
 - nível de combustível
 - prioridade do módulo
-- condições externas (clima e sensores)
+- condições externas
 
 A decisão de pouso é feita utilizando lógica booleana (AND / OR), simulando um sistema real de tomada de decisão.
 
@@ -16,7 +16,7 @@ A decisão de pouso é feita utilizando lógica booleana (AND / OR), simulando u
 
 ## ⚙️ Funcionalidades
 
-- Organização dos módulos em fila (queue)
+- Organização dos módulos em fila
 - Ordenação por prioridade
 - Simulação de condições externas
 - Verificação de autorização de pouso
